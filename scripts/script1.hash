@@ -1,0 +1,13 @@
+a = proba;
+
+if (a == proba) {
+	echo "jednaki su";
+} else {
+	echo "nisu jednaki -> ovako treba biti";
+}
+
+if ($a == proba) {
+	echo "jednaki su -> trebaju biti";
+} else {
+	echo "nisu jednaki";
+}

@@ -1,0 +1,8 @@
+# jos jedna skripta
+
+maxd = 7;
+
+for ( i=1; $i <= $maxd; i = "$i + 1"; ) {
+	x = "Loop number: $i";
+	echo $x;
+}s
